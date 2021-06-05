@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: Lab 05
+description: Create a CIT 281 collection and folders, Create a Node.js and fastify server application with GET and respond with JSON, Add array of students object, Use Postman to test server GET routes, Add POST handling to server application and respond with JSON, POST request
